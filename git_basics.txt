@@ -14,3 +14,8 @@ git add .  :- move all files to staging area.
 git commit -m"(commin_message)" :- move repo from staging area to local repo.
 
 get log :- get commit history.
+
+git branch (branchName)/(branchDesc) :- create a branch.
+eg-> git branch feat/darkMode
+
+git checkout branchName : to change branch.
