@@ -1,0 +1,16 @@
+Three stages ehile uploading:
+1. Working directory :- when code is in progress.
+2. Staging area :- when code is final.
+3. local repo :- when code final and ready to share.
+
+
+
+
+
+git add (file_name) :- move selected files from working directory to staging area.
+
+git add .  :- move all files to staging area.
+
+git commit -m"(commin_message)" :- move repo from staging area to local repo.
+
+get log :- get commit history.
