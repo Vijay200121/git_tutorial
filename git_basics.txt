@@ -19,3 +19,5 @@ git branch (branchName)/(branchDesc) :- create a branch.
 eg-> git branch feat/darkMode
 
 git checkout branchName : to change branch.
+
+git log --oneline :- to get all commit history
